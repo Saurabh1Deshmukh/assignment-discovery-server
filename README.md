@@ -1,1 +1,1 @@
-# assignment-backend
+# assignment-discovery-server
